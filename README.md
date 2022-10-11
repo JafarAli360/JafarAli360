@@ -3,8 +3,6 @@
 
 <p align="justify">My expertise in Web Development is HTML5, CSS, Bootstrap, JavaScript, While my Linux Server uses Ubuntu Server, GNS3 VM. And to run linux, I use Operating System VirtualBox. And now learn Restful API, ORM, OOP in Javascript, DOM, NodeJS, Express JS, ReactJS, HTTP Server, database design, SDLC, OAUTH, Redux, React Router & backend integration, Design Pattern, Authentication, Open API, Web Socket, SSR (Server Side Rendering) With NEXTJS, Media handling, ESLINT, Unit testing & TDD, and Deployment & CI/CD.</p>
 
--  My PortFolio **https://jafarali360.github.io/portfolio/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-ja-far-ali-a5950522b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-ja-far-ali-a5950522b/" height="30" width="40" /></a>
